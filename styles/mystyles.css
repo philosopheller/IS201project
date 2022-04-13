@@ -1,0 +1,32 @@
+.bold {
+    font-weight: bold;
+    font-size: large;
+    font-style: normal;
+    color: green;
+}
+h2 {
+    color: green;
+}
+h3 {
+    font-style: italic;
+}
+.hello {
+    text-decoration: underline;
+    
+}
+.small {
+    font-size: 14px;
+}
+.italic {
+    font-style: italic;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+}
+.justbold{
+    font-weight: bold;
+}
+.white{
+    color: white;
+}
